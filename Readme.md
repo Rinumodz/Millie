@@ -56,7 +56,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Neeraj-x0/Millie
+git clone https://github.com/Rinumodz/Millie
 cd Millie
 npm install
 npm update
